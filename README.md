@@ -8,7 +8,9 @@ The project is structured as follows:
 
 - `assets/`: This directory contains screenshots of the output results and deployment-related reports.
 
-- `public/`: Static assets like images, icons, and fonts.
+- `public/`: Static assets like images, icons, and fonts. Also contains the Yolo11 model folder.
+
+  - `yolo11n-seg_web_model/`: Contains the Yolo11 segmentation model files for tensorflow.js format.
 
 - `src/`: Core source code for the application.
 
