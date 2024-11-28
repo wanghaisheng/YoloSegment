@@ -30,6 +30,9 @@ The project is structured as follows:
     - `webcam.js`: Webcam utility js function.
     - `labels.json`: Labels for the Yolo11 model classes in JSON format.
 
+  - `App.jsx`: Main React component for the application.
+  - `main.jsx`: Entry point for the application.
+
 - `.gitignore`: Specifies which files and directories should be ignored by Git.
 - `LICENSE`: Project licensing information.
 - `README.md`: Project documentation and setup instructions.
