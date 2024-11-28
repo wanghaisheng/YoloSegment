@@ -1,6 +1,6 @@
 # YoloSegment
 
-This is a simple web app to demonstrate how to use Yolo11 and TensorFlow.js to divide images into different regions or segments based on their content.
+This simple web app demonstrates how to use Yolo11 and TensorFlow.js to divide images into different regions or segments based on their content.
 
 ## Project Structure
 
@@ -46,7 +46,7 @@ The project is structured as follows:
 - **CSS**: Style sheet for designing the layout of web pages.
 - **JavaScript**: High-level programming language for building web applications.
 - **React**: JavaScript library for building user interfaces.
-- **TensorFlow.js**: Machine learning library for training and deploying machine learning models in the browser and on Node.js.
+- **TensorFlow.js**: Machine learning library for training and deploying machine learning models in the browser and Node.js.
 - **Ultralytics**: Exported YOLO11 segmentation model to TensorFlow.js.
 
 ## Getting Started
@@ -58,7 +58,7 @@ To get started with this project, follow the steps below:
 3. Install the required dependencies: `npm install`
 4. Run the application: `npm run dev`
 
-Open your local host to view the web application in your browser at `http://localhost:3000/`. You can also access a live version of the application [here](https://yolo-segment.vercel.app/), which is deployed on vercel.
+Open your local host to view the web application in your browser at `http://localhost:3000/`. You can also access a live version of the application [here](https://yolo-segment.vercel.app/), which is deployed on Vercel.
 
 ## Results
 
