@@ -10,7 +10,7 @@ The project is structured as follows:
 
 - `public/`: Static assets like images, icons, and fonts. Also contains the Yolo11 model folder.
 
-  - `yolo11n-seg_web_model/`: Contains the Yolo11 segmentation model files for tensorflow.js format.
+  - `yolo11n-seg_web_model/`: Contains the Yolo11 nano segmentation model files for tensorflow.js format.
 
 - `src/`: Core source code for the application.
 
@@ -49,7 +49,7 @@ The project is structured as follows:
 - **JavaScript**: High-level programming language for building web applications.
 - **React**: JavaScript library for building user interfaces.
 - **TensorFlow.js**: Machine learning library for training and deploying machine learning models in the browser and Node.js.
-- **Ultralytics**: Exported YOLO11 segmentation model to TensorFlow.js.
+- **Ultralytics**: Exported YOLO11 nano segmentation model to TensorFlow.js.
 
 ## Getting Started
 
@@ -60,7 +60,7 @@ To get started with this project, follow the steps below:
 3. Install the required dependencies: `npm install`
 4. Run the application: `npm run dev`
 
-Open your local host to view the web application in your browser at `http://localhost:3000/`. You can also access a live version of the application [here](https://yolo-segment.vercel.app/), which is deployed on Vercel.
+Open your local host to view the web application in your browser at `http://localhost:5173/`. You can also access a live version of the application [here](https://yolo-segment.vercel.app/), which is deployed on Vercel.
 
 ## Results
 
